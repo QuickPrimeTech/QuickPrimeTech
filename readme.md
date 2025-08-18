@@ -127,23 +127,24 @@ We design solutions that directly support restaurant owners in managing and grow
 
 ---
 
-## 🌍 <span style="color:#6366f1;">Connect with Me</span>
+## <span style="color:#6366f1;">Connect with Me</span>
 
 <div align="left" style="display: flex; gap: 12px; align-items: center; margin-top:6px;">
 
   <!-- Website -->
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://quickprimetech.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" width="40" height="40"/>
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/derick-kibiwott" target="_blank">
+  <a href="https://www.instagram.com/quickprimetech/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
 
   <!-- Facebook -->
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61577138158760" target="_blank">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
 
 </div>
+# QuickPrimeTech
