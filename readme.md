@@ -1,8 +1,6 @@
 <!-- Slim Banner -->
 <div style="margin-bottom: 40px; text-align: center;">
-  <img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1749102720/opengraph-image_lmiplo.png" 
-       alt="QuickPrimeTech Banner" 
-       style="max-width: 100%; height: auto; border-radius: 12px;" />
+ WEBSITE DESIGN AGENCY
 </div>
 
 <!-- Logo + Name -->
