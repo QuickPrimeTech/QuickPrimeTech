@@ -16,23 +16,23 @@
 
 ### Hi there👋,
 
-At **QuickPrimeTech** – We help restaurants create websites that drive revenue without spending a fortune.
+At **QuickPrimeTech** – We help businesses and organizations create websites that drive growth without spending a fortune.
 
 ---
 
-## 🏢 <span style="color:#6366f1;">About Us 🍽️</span>
+## 🏢 <span style="color:#6366f1;">About Us 💼</span>
 
 At **QuickPrimeTech**, we build websites that go beyond just looking good.  
-We design solutions that directly support restaurant owners in managing and growing their businesses.
+We design solutions that directly support business owners and organizations in managing and growing their operations.
 
-### <span style="color:#8b5cf6;">What We Deliver for Restaurants</span>
+### <span style="color:#8b5cf6;">What We Deliver for Businesses & Organizations</span>
 
 <table style="border: 2px solid #8b5cf6; border-collapse: collapse; width: 100%;">
-  <tr><td style="border-right: 2px solid #8b5cf6;">🍽️</td><td> <b>Online Reservations</b> – Let customers book tables seamlessly without phone calls.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">📋</td><td> <b>Digital Menus</b> – Showcase your menu items beautifully, with prices and images.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">📸</td><td> <b>Photo Gallery</b> – Highlight your best dishes, ambiance, and customer experiences.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">🏟️</td><td> <b>Event Spaces</b> – Promote private dining, catering, or special events.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">📱</td><td> <b>Mobile-First Experience</b> – Customers can browse, book, and order from any device.</td></tr>
+  <tr><td style="border-right: 2px solid #8b5cf6;">📅</td><td> <b>Online Bookings & Appointments</b> – Let customers schedule seamlessly without phone calls.</td></tr>
+  <tr><td style="border-right: 2px solid #8b5cf6;">📋</td><td> <b>Products & Services Showcase</b> – Display your offerings beautifully, with descriptions and pricing.</td></tr>
+  <tr><td style="border-right: 2px solid #8b5cf6;">📸</td><td> <b>Photo & Portfolio Gallery</b> – Highlight your work, team, and customer experiences.</td></tr>
+  <tr><td style="border-right: 2px solid #8b5cf6;">📣</td><td> <b>Events & Promotions</b> – Promote launches, campaigns, or special offers effortlessly.</td></tr>
+  <tr><td style="border-right: 2px solid #8b5cf6;">📱</td><td> <b>Mobile-First Experience</b> – Customers can browse, book, and engage from any device.</td></tr>
 </table>
 
 ### <span style="color:#8b5cf6;">Why It Matters</span>
@@ -44,15 +44,15 @@ We design solutions that directly support restaurant owners in managing and grow
   </tr>
   <tr>
     <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Save Time</b> – Reduce repetitive phone calls by automating reservations and FAQs.</td>
+    <td><b>Save Time</b> – Reduce repetitive inquiries by automating bookings and FAQs.</td>
   </tr>
   <tr>
     <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Stronger Branding</b> – Make your restaurant stand out with a sleek digital presence.</td>
+    <td><b>Stronger Branding</b> – Make your business stand out with a sleek digital presence.</td>
   </tr>
   <tr>
     <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Customer Trust</b> – Modern websites build credibility and increase repeat visits.</td>
+    <td><b>Customer Trust</b> – Modern websites build credibility and increase repeat engagement.</td>
   </tr>
   <tr>
     <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
@@ -66,7 +66,7 @@ We design solutions that directly support restaurant owners in managing and grow
 
 ### Frontend
 
-<table style="border: 2px solid #8b5cf6; border-collapse: collapse>
+<table style="border: 2px solid #8b5cf6; border-collapse: collapse;">
   <tr>
     <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5"/></td>
     <td style="border-right: none;">HTML5</td>
