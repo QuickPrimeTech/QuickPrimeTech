@@ -1,130 +1,91 @@
-<!-- Slim Banner -->
-<div style="margin-bottom: 40px; text-align: center;">
- WEBSITE DESIGN AGENCY
+﻿![QuickPrimeTech OG](https://raw.githubusercontent.com/QuickPrimeTech/QuickPrimeTech/refs/heads/main/og.png)
+
+<div align="center">
+
+# QuickPrimeTech
+
+### Websites that sell, convert, and make your competitors nervous.
+
+[![Website](https://img.shields.io/badge/Website-quickprimetech.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://quickprimetech.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-@quickprimetech-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/quickprimetech/)
+[![Facebook](https://img.shields.io/badge/Facebook-QuickPrimeTech-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61577138158760)
+
 </div>
 
-<!-- Logo + Name -->
-<h1 style="margin-bottom: 30px; color: #6366f1;">
-  <img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755516136/logo-rounded_logo.png" 
-       alt="QuickPrimeTech Logo" 
-       width="40" 
-       style="vertical-align: middle; margin-right: 10px;"/>
-  QuickPrimeTech
-</h1>
+---
 
-### Hi there👋,
+## What I Do
 
-At **QuickPrimeTech** – We help businesses and organizations create websites that drive growth without spending a fortune.
+I'm a web developer who turns business ideas into high-performing websites — built for growth, trust, and real results.
+
+No templates from 2009. No pages that look nice but do nothing. Just clean design, sharp messaging, and code that works as hard as you do.
 
 ---
 
-## 🏢 <span style="color:#6366f1;">About Us 💼</span>
+## What You Get
 
-At **QuickPrimeTech**, we build websites that go beyond just looking good.  
-We design solutions that directly support business owners and organizations in managing and growing their operations.
-
-### <span style="color:#8b5cf6;">What We Deliver for Businesses & Organizations</span>
-
-<table style="border: 2px solid #8b5cf6; border-collapse: collapse; width: 100%;">
-  <tr><td style="border-right: 2px solid #8b5cf6;">📅</td><td> <b>Online Bookings & Appointments</b> – Let customers schedule seamlessly without phone calls.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">📋</td><td> <b>Products & Services Showcase</b> – Display your offerings beautifully, with descriptions and pricing.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">📸</td><td> <b>Photo & Portfolio Gallery</b> – Highlight your work, team, and customer experiences.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">📣</td><td> <b>Events & Promotions</b> – Promote launches, campaigns, or special offers effortlessly.</td></tr>
-  <tr><td style="border-right: 2px solid #8b5cf6;">📱</td><td> <b>Mobile-First Experience</b> – Customers can browse, book, and engage from any device.</td></tr>
-</table>
-
-### <span style="color:#8b5cf6;">Why It Matters</span>
-
-<table style="border: 2px solid #8b5cf6; border-collapse: collapse;">
-  <tr>
-    <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Boost Revenue</b> – Convert visitors into paying customers with a professional website.</td>
-  </tr>
-  <tr>
-    <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Save Time</b> – Reduce repetitive inquiries by automating bookings and FAQs.</td>
-  </tr>
-  <tr>
-    <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Stronger Branding</b> – Make your business stand out with a sleek digital presence.</td>
-  </tr>
-  <tr>
-    <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Customer Trust</b> – Modern websites build credibility and increase repeat engagement.</td>
-  </tr>
-  <tr>
-    <td style="border-right: 2px solid #8b5cf6;"><img src="https://res.cloudinary.com/quick-prime-tech/image/upload/v1755518286/check_ul9sf9.png" width="20" height="20" alt="Check"/></td>
-    <td><b>Affordable & Lightweight</b> – Enterprise-level features without breaking the bank.</td>
-  </tr>
-</table>
+| Feature                   | Why It Matters                            | Your Outcome                       |
+| ------------------------- | ----------------------------------------- | ---------------------------------- |
+| 🎯 Sales-focused homepage | First impression = revenue opportunity    | More leads, fewer lost clicks      |
+| 💬 Business-first design  | Visitors instantly understand what you do | Faster decisions, more trust       |
+| 📱 Mobile-ready launch    | People search on phones, not fax machines | Better traffic, higher conversions |
+| ⚡ Fast support           | Quick replies, projects stay on track     | Less waiting, more shipping        |
 
 ---
 
-## 🛠 <span style="color:#6366f1;">Tech Stacks & Tools</span>
+## Services
 
-### Frontend
-
-<table style="border: 2px solid #8b5cf6; border-collapse: collapse;">
-  <tr>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5"/></td>
-    <td style="border-right: none;">HTML5</td>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3"/></td>
-    <td style="border-right: none;">CSS3</td>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/></td>
-    <td style="border-right: none;">JavaScript</td>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React"/></td>
-    <td style="border-right: none;">React</td>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="28" height="28" alt="Next.js"/></td>
-    <td style="border-right: none;">Next.js</td>
-    <td style="border-right: none;"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="28" height="28" alt="Tailwind CSS"/></td>
-    <td>Tailwind CSS</td>
-  </tr>
-</table>
-
-### Backend
-
-<table style="border: 2px solid #8b5cf6; border-collapse: collapse;">
-  <tr>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js"/></td>
-    <td style="border-right: none;">Node.js</td>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" alt="MySQL"/></td>
-    <td>MySQL</td>
-  </tr>
-</table>
-
-### Other Tools
-
-<table style="border: 2px solid #8b5cf6; border-collapse: collapse;">
-  <tr>
-    <td style="border-right: none;"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="28" height="28" alt="Figma"/></td>
-    <td style="border-right: none;">Figma</td>
-    <td style="border-right: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"/></td>
-    <td style="border-right: none;">Git</td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28" height="28" alt="Postman"/></td>
-    <td>Postman</td>
-  </tr>
-</table>
+- **High-converting landing pages** — for offers, product launches, and local businesses
+- **Portfolio & service showcases** — premium look, not a premium price tag
+- **Online booking / appointment systems** — so customers can book while you sleep
+- **Performance tuning** — fast load times, better rankings
+- **Brand refresh & copy polish** — turn casual visitors into serious buyers
 
 ---
 
-## <span style="color:#6366f1;">Connect with Me</span>
+## How It Works
 
-<table style="border: 2px solid #8b5cf6; border-collapse: collapse; width: auto;">
-  <tr>
-    <td>
-      <a href="https://quickprimetech.vercel.app/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website" width="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/quickprimetech/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.facebook.com/profile.php?id=61577138158760" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+```
+1. Ask the right questions    →  Your goals, not your favorite color
+2. Design for business        →  Every section built to sell
+3. Build fast, launch clean   →  No fluff. No delays.
+4. Measure what matters       →  Traffic, leads, and customer actions
+```
+
+---
+
+## Who This Is For
+
+✔ Business owners tired of websites that look pretty but don't convert  
+✔ Coaches, consultants, studios, shops, and service brands ready to grow  
+✔ Teams that want a site built for customers first, developers second
+
+---
+
+## About Me
+
+I'm a web developer at QuickPrimeTech. I combine clean design, smart UX, and real business thinking to help websites do more than just exist.
+
+I love code. More importantly, I love turning that code into results for businesses that want to look sharp and convert better.
+
+---
+
+## Ready to Upgrade?
+
+| Option                 | Best For                                                  |
+| ---------------------- | --------------------------------------------------------- |
+| 🔍 **Website Audit**   | Find out if your site is quietly leaking customers        |
+| 🚀 **New Site Launch** | Companies that need a stronger digital storefront         |
+| ✨ **Website Refresh** | Businesses that want a modern look without a full rebuild |
+
+> _Want faster results than your last marketing campaign? Let's make your website the one that brings customers in._
+
+---
+
+## Connect
+
+| Platform     | Link                                                                     |
+| ------------ | ------------------------------------------------------------------------ |
+| 🌐 Website   | [quickprimetech.vercel.app](https://quickprimetech.vercel.app/)          |
+| 📸 Instagram | [@quickprimetech](https://www.instagram.com/quickprimetech/)             |
+| 👍 Facebook  | [QuickPrimeTech](https://www.facebook.com/profile.php?id=61577138158760) |
